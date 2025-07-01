@@ -1,0 +1,6 @@
+gradio
+sentence-transformers
+rank_bm25
+faiss-cpu
+transformers
+torch
